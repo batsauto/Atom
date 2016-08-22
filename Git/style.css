@@ -1,0 +1,19 @@
+#wrapper{
+    background-color: black;
+    color: white;
+}
+
+.contentbox{
+    display: inline-block;
+}
+
+.dogpic{
+    display: inline-block;
+    border: solid 2px grey;
+    width: 300px;
+    height: 300px;
+}
+
+main{
+
+}
